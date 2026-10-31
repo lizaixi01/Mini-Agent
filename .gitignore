@@ -1,0 +1,4 @@
+.mini-agent/
+__pycache__/
+.env
+.env.local
