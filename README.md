@@ -1,5 +1,7 @@
 # Mini-Agent
 
+![Mini-Agent：一起动手学习 AI Agent](assets/cover.png)
+
 从零动手搭建一个教学用 AI Agent，逐课学习会话、工具、权限、Memory 和 Skills。项目借鉴 Codex 与 Claude Code 的公开功能，代码是简化实现。
 
 ## 快速开始
